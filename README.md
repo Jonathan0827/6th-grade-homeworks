@@ -1,2 +1,2 @@
-# SocialHomework
-Will be deleted tomorrow(9.28)
+# 사회 숙제
+## 6학년 3반 임준협이 제작함
