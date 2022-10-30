@@ -2,7 +2,8 @@
 ## 2모둠 
 + 임준협, 이선호, 임규리, 박서윤
 ## Result
-<a href="https://share.icloud.com/photos/0a1vYQZdhKTz28R29aFqu4-Qg">6시간 동안 편집만 한 결과물</a>
+(의도치 않은) 4K HDR Dolby Vision 지원
+<a href="https://share.icloud.com/photos/0a1vYQZdhKTz28R29aFqu4-Qg">6시간 동안 편집만 하다가 컴퓨터 터질뻔한 상황을 겪으면서 만든 결과물</a>
 ### Tasks
 - [x] 촬영 -Done
 - ![](https://geps.dev/progress/100)
