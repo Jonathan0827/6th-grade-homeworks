@@ -2,10 +2,13 @@
 ## 2모둠 
 + 임준협, 이선호, 임규리, 박서윤
 ### Tasks
-- [x] 촬영 -Done ![](https://geps.dev/progress/100)
-- [ ] 목소리 -Pending ![](https://geps.dev/progress/10)
+- [x] 촬영 -Done
+- ![](https://geps.dev/progress/100)
+- [ ] 목소리 -Pending
+- ![](https://geps.dev/progress/10)
 + Microsoft Azure TTS 
-- [ ] 편집 -In progress ![](https://geps.dev/progress/34)
+- [ ] 편집 -In progress 
+- ![](https://geps.dev/progress/34)
 #### Total progress
 ![](https://geps.dev/progress/48)
 ### Voices
