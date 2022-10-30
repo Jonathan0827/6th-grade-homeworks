@@ -4,10 +4,10 @@
 ### Tasks
 - [x] 촬영 -Done
 - ![](https://geps.dev/progress/100)
-- [ ] 목소리 -Done
+- [x] 목소리 -Done
 - ![](https://geps.dev/progress/100)
 + Microsoft Azure TTS 
-- [ ] 편집 -Done
+- [x] 편집 -Done
 - ![](https://geps.dev/progress/100)
 #### Total progress
 ![](https://geps.dev/progress/100)
