@@ -4,14 +4,15 @@
 ### Tasks
 - [x] 촬영 -Done
 - ![](https://geps.dev/progress/100)
-- [ ] 목소리 -Pending
-- ![](https://geps.dev/progress/10)
+- [x] 목소리 -Done
+- ![](https://geps.dev/progress/100)
 + Microsoft Azure TTS 
-- [ ] 편집 -In progress 
-- ![](https://geps.dev/progress/34)
+- [x] 편집 -Done
+- ![](https://geps.dev/progress/100)
 #### Total progress
-![](https://geps.dev/progress/48)
+![](https://geps.dev/progress/100)
 ### Voices
 - 박서윤: JiMin (Neural), Speed: 1.2, pitch: 1.1
-- 이선호: YuJin (Neural), Speed 1.25, pitch: 1
-- 임준협: Goomkin (Neural), Speed: 1.3, pitch: 0.85
+- 이선호: YuJin (Neural), Speed 1.25, pitch: 0.8
+- 임준협: Gookmin (Neural), Speed: 1.3, pitch: 1.2
+- Narrator: SoonBok (Neural), Speed: 1.2, pitch: 1.0
